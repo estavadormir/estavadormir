@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @estavadormir
+- 👀 I’m mainly interested in web development.
+- 🌱 I’m currently learning NextJS.
+- 📫 Reach me at andrelikescomputers.dev
